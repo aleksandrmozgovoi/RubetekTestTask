@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RubetekTestTask</string>
+    <string name="activity_start_button_text">Кнопка</string>
+</resources>
