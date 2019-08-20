@@ -17,7 +17,7 @@ class StartPresenter : MvpPresenter<StartView>() {
     private val TAG: String = "StartPresenter"
     private val db = App.appDB
     private val MAX_VAL_RANDOM = 20
-    private val MIN_VAL_EXCEPTION: Int = 10
+    private val MIN_VAL_EXCEPTION: Int = 5
     private val DELAY_RESPONSE: Long = 5000
 
     init {
